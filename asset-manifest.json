@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-superfighters/static/css/main.799e85e5.css",
+    "main.js": "/react-superfighters/static/js/main.c0cdbfdd.js",
+    "static/js/453.f5f988b8.chunk.js": "/react-superfighters/static/js/453.f5f988b8.chunk.js",
+    "index.html": "/react-superfighters/index.html",
+    "main.799e85e5.css.map": "/react-superfighters/static/css/main.799e85e5.css.map",
+    "main.c0cdbfdd.js.map": "/react-superfighters/static/js/main.c0cdbfdd.js.map",
+    "453.f5f988b8.chunk.js.map": "/react-superfighters/static/js/453.f5f988b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.799e85e5.css",
+    "static/js/main.c0cdbfdd.js"
+  ]
+}
